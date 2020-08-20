@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Max - aka Maxtasy 👋
+
+- 🔭 I’m currently working on JavaScript Applications and Games
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on basically anything
 
 <!--
 **Maxtasy/maxtasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
