@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on JavaScript/React Applications
 - 🌱 I’m currently looking for a job as a Frontend Wev Developer
 - 👯 I’m looking to collaborate on web apps
+- 💬 Some of the repositories below are from tutorial code-alongs when I studied new topics. 
 
 <!--
 **Maxtasy/maxtasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
