@@ -1,7 +1,7 @@
 ### Hi there, I'm Max - aka Maxtasy 👋
 
 - 🔭 I’m currently working on JavaScript/React Applications
-- 🌱 I’m currently learning React
+- 🌱 I’m currently looking for a job as a Frontend Wev Developer
 - 👯 I’m looking to collaborate on web apps
 
 <!--
