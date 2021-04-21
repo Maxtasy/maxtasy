@@ -1,8 +1,8 @@
 ### Hi there, I'm Max - aka Maxtasy 👋
 
-- 🔭 I’m currently working as a Front-End Web Developer
+- 🛠️ I’m currently working as a Front-End Web Developer
 - 👯 I’m looking to collaborate on web apps
-- 💬 Some of my repositories are from tutorial code-alongs when I studied new topics. 
+- 👨‍🎓 Some of my repositories are from tutorial code-alongs when I studied new topics. 
 
 <!--
 **Maxtasy/maxtasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
