@@ -2,7 +2,7 @@
 
 - 🛠️ Mainly working as a Front-End Web Developer
 - 🛍️ Specialized in the Shopify Ecosystem, Online Shop Features & A/B Testing
-- 👯 I’m looking to collaborate on web apps
+- 🐢 Currently improving my Back-End skills by building full stack applications
 
 <!--
 **Maxtasy/maxtasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
